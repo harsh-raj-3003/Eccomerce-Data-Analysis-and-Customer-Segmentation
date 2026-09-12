@@ -8,9 +8,7 @@ An end-to-end analysis of ecommerce customers, products, pricing, profitability,
 
 - [Customer Analysis Notebook](Data%20Analysis/CustomerAnalysis.ipynb): Complete exploratory and strategic analysis.
 - [Detailed Report](detailed_report.md): Markdown report generated from the notebook's markdown cells.
-- [Markdown Export Script](Data%20Analysis/export_markdown_cells.py): Regenerates the detailed report from the notebook.
 - [Implementation Plan](Data%20Analysis/implementation_plan.md): Analysis scope, section plan, and verification strategy.
-- [Progress Tracker](Data%20Analysis/progress_tracker.md): Notebook implementation status.
 
 ## Detailed Report Navigation
 
